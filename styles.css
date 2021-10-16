@@ -1,0 +1,43 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: rgb(183, 0, 255);
+}
+
+h1 {
+  color: rgb(31, 202, 185);
+}
+
+h2 {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+
+.title {
+  text-align: center;
+  font-weight: 700;
+}
+
+li a {
+  color: #1fd14c;
+}
+
+.ingredients li {
+  background-color: hsl(54, 66%, 53%);
+}
+
+#burger-steps {
+  background-color: lightgray;
+}
+
+ol#burger-steps {
+  color: #1fd14c;
+}
+
+img {
+  height: auto;
+  width: 300px;
+}
